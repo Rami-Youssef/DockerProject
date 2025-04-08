@@ -50,9 +50,6 @@ Docker :
 👨‍💻 Auteur(s) / Équipe
 Rami Youssef & ismail tabat
 
-GitHub
-
-Email : aymane.dev@email.com
 
 📸 Démo / Captures d’écran:
 
