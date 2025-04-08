@@ -26,10 +26,11 @@ Une application web de gestion des tâches (CRUD) développée avec **React.js**
 
 ## 🏗️ Instructions de build et d’exécution locale
 
-### 1. Cloner le dépôt :
-```bash
+Cloner le dépôt :
 git clone https://github.com/ton-utilisateur/gestion-taches.git
 cd gestion-taches
+---
+
 
 🐳 Lien vers l’image Docker (Docker Hub)
 📦 Backend Spring Boot :
