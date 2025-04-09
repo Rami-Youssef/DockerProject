@@ -51,8 +51,6 @@ Docker :
 Rami Youssef & ismail tabat
 
 
-📸 Démo / Captures d’écran:
-
 
 
 
