@@ -1,11 +1,11 @@
-# 📦 Projet Fullstack : Gestion des Tâches
+# 📦 Projet Fullstack : Gestion des Voiture
 
-Une application web de gestion des tâches (CRUD) développée avec **React.js** pour le frontend, **Spring Boot** pour le backend, et **MySQL** pour la base de données. Le projet est conteneurisé avec **Docker** pour faciliter le déploiement.
+
 
 ---
 
 ## 🚀 Présentation du projet
-
+Une application web de gestion des tâches (CRUD) développée avec **React.js** pour le frontend, **Spring Boot** pour le backend, et **MySQL** pour la base de données. Le projet est conteneurisé avec **Docker** pour faciliter le déploiement.
 ---
 
 ## 🛠️ Technologies utilisées
